@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/teletha/javadng/compare/v2.3.0...v2.4.0) (2024-11-29)
+
+
+### Features
+
+* update lycoris ([07ded46](https://github.com/teletha/javadng/commit/07ded46a6127bb4eb2d22edafec78d3973963a9c))
+
 ## [2.3.0](https://github.com/teletha/javadng/compare/v2.2.1...v2.3.0) (2024-11-28)
 
 
